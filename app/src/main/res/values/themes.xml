@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MouseGhostSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/background</item>
+        <item name="postSplashScreenTheme">@style/Theme.MouseGhost</item>
+    </style>
+
+    <style name="Theme.MouseGhost" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
