@@ -34,6 +34,7 @@ import androidx.compose.material3.SliderDefaults
 import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
@@ -46,6 +47,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.core.content.ContextCompat
 import androidx.navigation.NavHostController
+import com.google.firebase.Firebase
+import com.google.firebase.analytics.analytics
+import com.google.firebase.analytics.logEvent
 import com.imgurujeet.mouseghost.R
 import com.imgurujeet.mouseghost.WebViewActivity
 import com.imgurujeet.mouseghost.core.Constants.version
@@ -58,6 +62,13 @@ fun SettingScreen(navHost : NavHostController){
 
     val context = LocalContext.current
     val prefs = remember { Prefs(context) }
+    val analytics = Firebase.analytics
+
+    LaunchedEffect(Unit) {
+        analytics.logEvent("setting_screen_opened") {
+            param("screen_name", "settingScreen")
+        }
+    }
 
     Scaffold(
         topBar = {

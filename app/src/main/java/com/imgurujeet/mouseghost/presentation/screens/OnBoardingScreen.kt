@@ -187,9 +187,11 @@ fun OnBoardingScreen(navHost: NavHostController) {
                         color = Color.Black,
                     )
                 }
+
             }
+
+
         }
     )
 }
-
 

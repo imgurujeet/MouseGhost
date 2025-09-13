@@ -29,6 +29,9 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
+import com.google.firebase.Firebase
+import com.google.firebase.analytics.analytics
+import com.google.firebase.analytics.logEvent
 import com.imgurujeet.mouseghost.R
 import com.imgurujeet.mouseghost.core.Prefs
 import kotlin.math.sin
@@ -51,6 +54,13 @@ fun HomeScreen(navHost: NavHostController) {
     var imageHeightPx by rememberSaveable { mutableStateOf(0f) }
     val originalBrightness = remember { window.attributes.screenBrightness }
     var playerStarted by rememberSaveable { mutableStateOf(false) }
+    val analytics = Firebase.analytics
+
+    LaunchedEffect(Unit) {
+        analytics.logEvent("home_screen_opened") {
+            param("screen_name", "HomeScreen")
+        }
+    }
 
 
     // Pattern selection
