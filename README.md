@@ -21,7 +21,7 @@ Only use this tool if you understand the ethics and potential consequences of yo
 
 ## 📱 Screenshots
 
-<img src="app/src/main/res/assets/ss_1.jpg" width="240"/> <img src="app/src/main/res/assets/ss_2.png" width="240"/> <img src="app/src/main/res/assets/ss_3.png" width="240"/> <img src="app/src/main/res/assets/ss_4.png" width="240"/>
+<img src="app/src/main/res/assets/ss_1.jpg" width="200"/> <img src="app/src/main/res/assets/ss_2.png" width="200"/> <img src="app/src/main/res/assets/ss_3.png" width="200"/> <img src="app/src/main/res/assets/ss_4.png" width="200"/>
 
 
 
