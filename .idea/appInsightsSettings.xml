@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.imgurujeet.mouseghost" />
+                  <option name="mobileSdkAppId" value="1:271209774768:android:3867c1a6a81ed67a104575" />
+                  <option name="projectId" value="mouse-ghost" />
+                  <option name="projectNumber" value="271209774768" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
