@@ -12,7 +12,7 @@ Do not use Mouse Ghost to violate workplace policies, institutional rules, or la
 
 Only use this tool if you understand the ethics and potential consequences of your actions. If you would intentionally hide activity from an employer or organization, do not use Mouse Ghost.
 
-[Download Here]()
+[Download Here](https://github.com/imgurujeet/MouseGhost/releases/download/release/app-release.apk)
 
 ## ⚒️ What it does
 #### Mouse Ghost renders a moving visual pattern on your screen. When a red-light optical mouse is placed on that portion of the display, the mouse’s optical sensor detects micro-movements and the cursor registers slow, natural motion — without any software connection to the host machine.
