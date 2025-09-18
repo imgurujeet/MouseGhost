@@ -116,3 +116,25 @@ Mouse Ghost does not connect to or alter your system, so there’s nothing for s
 **Q6: Is Mouse Ghost free to use?**  
 Yes. The project is open-source under the **MIT License**. You can use, modify, or contribute as long as you respect the license terms.  
 
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://x.com/imgurujeet">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="24" height="24" alt="X" style="margin: 0 8 px;">
+  </a>
+  <a href="https://instagram.com/imgurujeet">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="24" height="24" alt="Instagram" style="margin: 0 8 px;">
+  </a>
+  <a href="https://github.com/imgurujeet">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="24" height="24" alt="GitHub" style="margin: 0 8 px;">
+  </a>
+</p>
+
+
+
+
+
+
