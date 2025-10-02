@@ -14,6 +14,8 @@ Only use this tool if you understand the ethics and potential consequences of yo
 
 [Download Here](https://github.com/imgurujeet/MouseGhost/releases/download/release/app-release.apk)
 
+<a href='https://indusapp.store/1pyokqle'><img alt='Get it on Indus Appstore' src='https://docstore.indusappstore.com/public/external/developerdashboard-static/badge-white-background-english.png' width='200'/></a>
+
 ## ⚒️ What it does
 #### Mouse Ghost renders a moving visual pattern on your screen. When a red-light optical mouse is placed on that portion of the display, the mouse’s optical sensor detects micro-movements and the cursor registers slow, natural motion — without any software connection to the host machine.
 
